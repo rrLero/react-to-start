@@ -1,8 +1,7 @@
 {
   "plugins": [
     "transform-object-rest-spread",
-    "transform-flow-strip-types",
-    "transform-inline-environment-variables"
+    "transform-flow-strip-types"
   ],
 
   "presets": [
